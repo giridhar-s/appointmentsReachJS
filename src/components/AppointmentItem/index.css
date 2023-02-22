@@ -1,0 +1,26 @@
+.list-container {
+  padding: 16px;
+  border: 1px solid #b5b7c4;
+  margin-top: 16px;
+  list-style: none;
+  border-radius: 10px;
+  width: 31%;
+  margin-right: 17px;
+}
+.heading-section {
+  display: flex;
+  align-items: center;
+}
+.appointment-name {
+  color: #171f46;
+  font-size: 18px;
+  font-weight: 600;
+}
+.star-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+.date-paragraph {
+  color: #84848a;
+}
